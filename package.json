@@ -1,6 +1,10 @@
 {
-  "name": "npm-gh-actions-experiment",
+  "name": "@irnc/npm-gh-actions-experiment",
   "version": "1.0.1-1",
+  "publishConfig": {
+    "access": "public",
+    "scope": "@pavel.zubkou"
+  },
   "description": "https://docs.github.com/en/actions/publishing-packages/publishing-nodejs-packages",
   "main": "index.js",
   "scripts": {
